@@ -1,0 +1,43 @@
+body {
+
+    background-color: #b2bfe5;
+}
+
+h2 {
+    color: #232a3d;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h3 {
+
+    color: antiquewhite;
+    background-color: #5f6572;
+    border-radius: 10px;
+ padding: 10px;
+}
+
+h1 {
+    color: #0c023a;
+
+}
+
+img {
+    width: 350px;
+    height: 150px;
+    display: flex;
+}
+
+.ww{
+
+    width: 80px;
+    height: 80px;
+}
+
+p{
+color: antiquewhite ;
+background-color: #6f1db6 ;
+border-radius: 10px;
+ padding: 10px;
+}
